@@ -6,7 +6,7 @@ same time learning and research about programmation.
 - ⚡ As fun act I encounter studying Golang and deepeng Flutter with others package about games as Flame. In the future I hope to launch my own game.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
-- 💬 You can ask me about Laravel, Codeigniter or PHP I´m not expeert but if I know the answer I´ll stay glad to I help you. 
+- 💬 You can ask me about Laravel, Codeigniter or PHP I´m not expert but if I know the answer I´ll stay glad to I help you. 
 - 📫 How to reach me: machucajuangabriel@gmail.com
 
  
