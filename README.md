@@ -2,7 +2,7 @@
 
 - 🚀 I’m currently working in CODEX.SA as a Software Developer, building apps for both mobile and web.
 - 🔭 I am also developing a new personal project called DivCor, which is growing, where the collaborators and I create technological solutions
-same time learning and research about programmation. 
+while we learn about programming. 
 - ⚡ As a pastime I find myself studying Golang and expanding my knowledge of Flutter along with other packages about games, such as Flame. In the future I expect to launch my own game.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
