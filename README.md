@@ -1,16 +1,34 @@
-### Hi there 👋 My name is Juan and I am from Argentina, thanks you for visit me!
+###### ¡Welcome to my GitHub!
+
+## Hi there 👋, My name is Juan and I am from Argentina.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmachuca95&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachuca95" /> </p>
+
 
 - 🚀 I’m currently working in CODEX.SA as a Software Developer, building apps for both mobile and web.
 - 🔭 I am also developing a new personal project called DivCor, which is growing, where the collaborators and I create technological solutions
 while we learn about programming. 
-- ⚡ As a pastime I find myself studying Golang and expanding my knowledge of Flutter along with other packages about games, such as Flame. In the future I expect to launch my own game.
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... -->
 - 💬 You can ask me about Laravel, Codeigniter or PHP I´m not expert but if I know the answer I´ll stay glad to I help you. 
 - 📫 How to reach me: machucajuangabriel@gmail.com
 
  #### Helpful Links
- - Official page: https://divcor.ar
- - Productions: https://juanmachuca95.github.io
- 
+ - Official page: https://divcor.ar - Productions: https://juanmachuca95.github.io
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmachuca95&show_icons=true&locale=en&layout=compact" alt="juanmachuca95" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmachuca95&show_icons=true&locale=en" alt="juanmachuca95" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmachuca95&" alt="juanmachuca95" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/juangm1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juangm1995" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan machuca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan machuca" height="30" width="40" /></a>
+<a href="https://fb.com/machuca juan gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="machuca juan gabriel" height="30" width="40" /></a>
+<a href="https://instagram.com/juangabrielmachuca95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juangabrielmachuca95" height="30" width="40" /></a>
+</p>
+
 
