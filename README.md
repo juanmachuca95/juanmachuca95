@@ -32,8 +32,5 @@ while we learn about programming.
 <p align="left">
 <a href="https://twitter.com/juangm1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juangm1995" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juan machuca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan machuca" height="30" width="40" /></a>
-<a href="https://fb.com/machuca juan gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="machuca juan gabriel" height="30" width="40" /></a>
-<a href="https://instagram.com/juangabrielmachuca95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juangabrielmachuca95" height="30" width="40" /></a>
-</p>
 
 
