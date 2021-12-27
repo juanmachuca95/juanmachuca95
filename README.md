@@ -2,7 +2,7 @@
 
 ## Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, My name is Juan and I am from Argentina.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmachuca95&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachuca95" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmachuca95&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachuca95" /> </p>-->
 
 
 - 🚀 I’m currently working in CODEX.SA as a Software Developer, building apps for both mobile and web.
@@ -22,15 +22,5 @@ while we learn about programming.
 ![juanmachuca95's github stats](https://github-readme-stats.vercel.app/api?username=juanmachuca95&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![juanmachuca95's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanmachuca95&layout=compact&langs_count=8&hide_border=true)
 
-
-<div style="display:flex; justify-content:between;">
- <!--<p><img src="https://github-readme-stats.vercel.app/api?username=juanmachuca95&show_icons=true&locale=en" alt="juanmachuca95" /></p>-->
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmachuca95&" alt="juanmachuca95" /></p>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/juangm1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juangm1995" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juan machuca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan machuca" height="30" width="40" /></a>
 
 
