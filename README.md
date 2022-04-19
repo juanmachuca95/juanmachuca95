@@ -8,7 +8,7 @@
 - 🚀 I’m currently working in CODEX.SA as a Software Developer, building apps for both mobile and web.
 - 🔭 I am also developing a new personal project called DivCor, which is growing, where the collaborators and I create technological solutions
 while we learn about programming. 
-- 💬 You can ask me about Laravel, Codeigniter or PHP I´m not expert but if I know the answer I´ll stay glad to I help you. <<
+- 💬 You can ask me about Laravel, Codeigniter or PHP I´m not expert but if I know the answer I´ll stay glad to I help you.
 <!-- - 📫 How to reach me: machucajuangabriel@gmail.com -->
 
 <!-- #### Helpful Links
