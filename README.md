@@ -19,7 +19,6 @@ while we learn about programming.
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmachuca95&show_icons=true&locale=en&layout=compact" alt="juanmachuca95" /></p>-->
 
-![juanmachuca95's github stats](https://github-readme-stats.vercel.app/api?username=juanmachuca95&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![juanmachuca95's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanmachuca95&layout=compact&langs_count=8&hide_border=true)
 
 
