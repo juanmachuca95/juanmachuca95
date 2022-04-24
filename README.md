@@ -9,12 +9,8 @@
 - 🔭 I am also developing a new personal project called DivCor, which is growing, where the collaborators and I create technological solutions
 while we learn about programming. 
 - 💬 You can ask me about Laravel, Codeigniter or PHP I´m not expert but if I know the answer I´ll stay glad to I help you.
-<!-- - 📫 How to reach me: machucajuangabriel@gmail.com -->
+- 📫 GitHub Page:  <a href="https://juanmachuca95.github.io">juanmachuca95</a>
 
-<!-- #### Helpful Links
- - Official page: https://divcor.ar - Productions: https://juanmachuca95.github.io
--->
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="#" target="_blank"> 
  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
