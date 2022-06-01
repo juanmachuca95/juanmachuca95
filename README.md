@@ -1,6 +1,6 @@
 ###### ¡Welcome to my GitHub!
 
-## Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, My name is Juan and I am from Argentina.
+## Hi there, My name is Juan and I am from Argentina.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmachuca95&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachuca95" /> </p>-->
 
