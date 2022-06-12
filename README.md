@@ -6,6 +6,6 @@
 * 🔭 I am also developing a new personal project called DivCor, which is growing, where the collaborators and I create technological solutions
 while we learn about programming. 
 * 💬 You can ask me about Laravel, Codeigniter or PHP, and Go. I´m not expert but if I know the answer I´ll stay glad to I help you.
-* 📫 About me  <b><a href="https://juanmachuca95.github.io">juanmachuca95</a></b>
+<!--* 📫 About me  <b><a href="https://juanmachuca95.github.io">juanmachuca95</a></b>-->
 
 
