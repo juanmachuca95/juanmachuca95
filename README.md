@@ -9,3 +9,9 @@ while we learn about programming.
 <!--* 📫 About me  <b><a href="https://juanmachuca95.github.io">juanmachuca95</a></b>-->
 
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="ci4" alt="ci4" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="golang" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
+
