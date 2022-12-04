@@ -15,3 +15,5 @@ while we learn about programming.
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmachuca95&repo=gomeetplus&theme=transparent&show_owner=true)](https://github.com/juanmachuca95/gomeetplus) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmachuca95&repo=ahorcado_go&theme=transparent&show_owner=true)](https://github.com/juanmachuca95/ahorcado_go) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmachuca95&repo=conductores_go&theme=transparent&show_owner=true)](https://github.com/juanmachuca95/conductores_go) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmachuca95&repo=juanmachuca95.github.io&theme=transparent&show_owner=true)](https://github.com/juanmachuca95/juanmachuca95.github.io)
